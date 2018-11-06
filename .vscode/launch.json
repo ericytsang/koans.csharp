@@ -6,9 +6,10 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}/bin/Debug/netcoreapp1.0/DotNetCoreKoans.dll",
+            "program": "${workspaceRoot}/bin/Debug/netcoreapp2.1/DotNetCoreKoans.dll",
             "args": [],
             "cwd": "${workspaceRoot}",
+            "console": "integratedTerminal",
             "externalConsole": false,
             "stopAtEntry": false
         },
