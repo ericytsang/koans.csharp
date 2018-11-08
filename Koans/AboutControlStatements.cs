@@ -234,7 +234,7 @@ namespace DotNetCoreKoans.Koans
                 whoCaughtTheException = "When we tried to move to the next item in the list";
             }
 
-            Assert.Equal("When we tried to Add it", whoCaughtTheException);
+            Assert.Equal("When we tried to move to the next item in the list", whoCaughtTheException);
         }
     }
 }
